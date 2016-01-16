@@ -806,6 +806,7 @@
     <Content Include="Scripts\ng\angular-touch.min.js.map" />
     <Content Include="Scripts\ng\angular.min.js.map" />
     <Content Include="Views\Shared\_LayoutPageMain.cshtml" />
+    <Content Include="Views\Registration.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
