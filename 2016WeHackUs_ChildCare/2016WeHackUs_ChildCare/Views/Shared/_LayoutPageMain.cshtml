@@ -39,7 +39,7 @@
 <!-- Add class "boxed" along with body for boxed layout. -->
 <!-- Add "pattern-x" (1 to 5) for background patterns. -->
 <!-- Add "img-x" (1 to 5) for background images. -->
-<body>
+<body ng-app="sabioApp">
     
     
 
@@ -569,7 +569,6 @@
     <script src="~/js/jquery.countTo.js"></script>
 
     <script type="text/javascript">
-			<!-- Counting code -->
 			$(document).ready(function(){
 				// Way Points With Count To()
 				$('.number-count').waypoint(function(down){
@@ -657,9 +656,17 @@
 			});
     </script>
 
+    <script src="~/Scripts/sabio.js"></script>
+    <script src="~/Scripts/ng/angular.min.js"></script>
+    <script src="~/Scripts/ng/angular-animate.min.js"></script>
+    <script src="~/Scripts/ng/angular-route.js"></script>
+
+    <script src="~/Scripts/sabio.ng.app.js"></script>
+
+
     <!-- Custom JS. Type your JS code in custom.js file -->
     <script src="~/js/custom.js"></script>
-
+    @RenderSection("scripts", required: false)
     <!--
     Style switcher. This is just for demo purpose only.
     If you don't want remove the below line.

@@ -745,6 +745,7 @@
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
     <Content Include="Scripts\sabio.js" />
+    <Content Include="Scripts\services\sabio.services.search.js" />
     <Content Include="Scripts\_references.js" />
     <Content Include="style-switcher\img\img-1.jpg" />
     <Content Include="style-switcher\img\img-2.jpg" />
@@ -807,6 +808,7 @@
     <Content Include="Scripts\ng\angular.min.js.map" />
     <Content Include="Views\Shared\_LayoutPageMain.cshtml" />
     <Content Include="Views\Search\Index.cshtml" />
+    <Content Include="Scripts\sabio.ng.app.js" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
