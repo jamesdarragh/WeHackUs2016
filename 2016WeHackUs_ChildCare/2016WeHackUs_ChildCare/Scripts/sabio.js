@@ -5,6 +5,7 @@
         startUp: null
     },
     services: {},
+    factories: {},
     ui: {
         notifications: {},
         startUp: null
