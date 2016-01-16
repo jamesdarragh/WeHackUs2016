@@ -807,6 +807,7 @@
     <Content Include="Scripts\ng\angular-touch.min.js.map" />
     <Content Include="Scripts\ng\angular.min.js.map" />
     <Content Include="Views\Shared\_LayoutPageMain.cshtml" />
+    <Content Include="Views\Account\Registration.cshtml" />
     <Content Include="Views\Search\Index.cshtml" />
     <Content Include="Scripts\sabio.ng.app.js" />
   </ItemGroup>
