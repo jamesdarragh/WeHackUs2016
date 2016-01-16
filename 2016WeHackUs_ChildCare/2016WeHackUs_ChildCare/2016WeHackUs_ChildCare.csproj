@@ -180,7 +180,6 @@
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
-    <Compile Include="Controllers\MapController.cs" />
     <Compile Include="Controllers\SearchController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -807,8 +806,7 @@
     <Content Include="Scripts\ng\angular-touch.min.js.map" />
     <Content Include="Scripts\ng\angular.min.js.map" />
     <Content Include="Views\Shared\_LayoutPageMain.cshtml" />
-    <Content Include="Views\Map\Index.cshtml" />
-    <Content Include="Views\Shared\_MapPartial.cshtml" />
+    <Content Include="Views\Search\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
