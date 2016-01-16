@@ -72,3 +72,6 @@ C:\Users\chris_000\Source\Repos\WeHackUs2016\2016WeHackUs_ChildCare\2016WeHackUs
 C:\Users\chris_000\Source\Repos\WeHackUs2016\2016WeHackUs_ChildCare\2016WeHackUs_ChildCare\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\chris_000\Source\Repos\WeHackUs2016\2016WeHackUs_ChildCare\2016WeHackUs_ChildCare\obj\Debug\2016WeHackUs_ChildCare.dll
 C:\Users\chris_000\Source\Repos\WeHackUs2016\2016WeHackUs_ChildCare\2016WeHackUs_ChildCare\obj\Debug\2016WeHackUs_ChildCare.pdb
+C:\Users\chris_000\Source\Repos\WeHackUs2016\2016WeHackUs_ChildCare\2016WeHackUs_ChildCare\bin\Sabio.Data.dll
+C:\Users\chris_000\Source\Repos\WeHackUs2016\2016WeHackUs_ChildCare\2016WeHackUs_ChildCare\bin\Sabio.Data.pdb
+C:\Users\chris_000\Source\Repos\WeHackUs2016\2016WeHackUs_ChildCare\2016WeHackUs_ChildCare\obj\Debug\2016WeHackUs_ChildCare.csprojResolveAssemblyReference.cache
