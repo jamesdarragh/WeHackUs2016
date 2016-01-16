@@ -1,1 +1,11 @@
 /* Your CSS codes here */
+#registerLink {
+    padding: inherit;
+    padding-right: 5px;
+}
+
+#loginLink {
+    padding:inherit;
+    padding-left: 5px;
+    
+}
