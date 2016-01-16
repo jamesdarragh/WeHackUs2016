@@ -1,5 +1,0 @@
-C:\WeHack\2016WeHackUs_ChildCare\2016WeHackUs_ChildCare\Sabio.Data\bin\Debug\Sabio.Data.dll
-C:\WeHack\2016WeHackUs_ChildCare\2016WeHackUs_ChildCare\Sabio.Data\bin\Debug\Sabio.Data.pdb
-C:\WeHack\2016WeHackUs_ChildCare\2016WeHackUs_ChildCare\Sabio.Data\obj\Debug\Sabio.Data.csprojResolveAssemblyReference.cache
-C:\WeHack\2016WeHackUs_ChildCare\2016WeHackUs_ChildCare\Sabio.Data\obj\Debug\Sabio.Data.dll
-C:\WeHack\2016WeHackUs_ChildCare\2016WeHackUs_ChildCare\Sabio.Data\obj\Debug\Sabio.Data.pdb
